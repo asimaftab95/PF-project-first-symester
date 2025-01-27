@@ -1,0 +1,17 @@
+Sales Data:
+Month 1:
+Toyota:
+  Toyota Revo: Units Sold: 3, Price: 155 lacs
+  Toyota Fortuner: Units Sold: 2, Price: 200 lacs
+  Toyota Grande: Units Sold: 5, Price: 75 lacs
+Honda:
+  Honda Civic: Units Sold: 3, Price: 99 lacs
+  Honda City: Units Sold: 1, Price: 55 lacs
+  Honda Vezel: Units Sold: 4, Price: 135 lacs
+Audi:
+  Audi e-tron gt: Units Sold: 2, Price: 500 lacs
+  Audi A5: Units Sold: 1, Price: 180 lacs
+  Audi e-tron: Units Sold: 5, Price: 300 lacs
+
+Expenses:
+Month 1: Rent: 5 lacs, Electricity: 7 lacs, Salaries: 4 lacs
